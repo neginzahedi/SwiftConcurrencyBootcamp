@@ -11,6 +11,8 @@
 		0F82B5EB2B029ACD006DBFF0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F82B5EA2B029ACD006DBFF0 /* ContentView.swift */; };
 		0F82B5ED2B029ACE006DBFF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F82B5EC2B029ACE006DBFF0 /* Assets.xcassets */; };
 		0F82B5F02B029ACE006DBFF0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F82B5EF2B029ACE006DBFF0 /* Preview Assets.xcassets */; };
+		0F82B5F72B029C8D006DBFF0 /* DoCatchTryThrowsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F82B5F62B029C8D006DBFF0 /* DoCatchTryThrowsBootcamp.swift */; };
+		0F82B5F92B02A3FF006DBFF0 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 0F82B5F82B02A3FF006DBFF0 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		0F82B5EA2B029ACD006DBFF0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0F82B5EC2B029ACE006DBFF0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0F82B5EF2B029ACE006DBFF0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0F82B5F62B029C8D006DBFF0 /* DoCatchTryThrowsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrowsBootcamp.swift; sourceTree = "<group>"; };
+		0F82B5F82B02A3FF006DBFF0 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +39,7 @@
 		0F82B5DC2B029ACD006DBFF0 = {
 			isa = PBXGroup;
 			children = (
+				0F82B5F82B02A3FF006DBFF0 /* .gitignore */,
 				0F82B5E72B029ACD006DBFF0 /* SwiftConcurrencyBootcamp */,
 				0F82B5E62B029ACD006DBFF0 /* Products */,
 			);
@@ -53,6 +58,7 @@
 			children = (
 				0F82B5E82B029ACD006DBFF0 /* SwiftConcurrencyBootcampApp.swift */,
 				0F82B5EA2B029ACD006DBFF0 /* ContentView.swift */,
+				0F82B5F62B029C8D006DBFF0 /* DoCatchTryThrowsBootcamp.swift */,
 				0F82B5EC2B029ACE006DBFF0 /* Assets.xcassets */,
 				0F82B5EE2B029ACE006DBFF0 /* Preview Content */,
 			);
@@ -126,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0F82B5F02B029ACE006DBFF0 /* Preview Assets.xcassets in Resources */,
+				0F82B5F92B02A3FF006DBFF0 /* .gitignore in Resources */,
 				0F82B5ED2B029ACE006DBFF0 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F82B5F72B029C8D006DBFF0 /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				0F82B5EB2B029ACD006DBFF0 /* ContentView.swift in Sources */,
 				0F82B5E92B029ACD006DBFF0 /* SwiftConcurrencyBootcampApp.swift in Sources */,
 			);
